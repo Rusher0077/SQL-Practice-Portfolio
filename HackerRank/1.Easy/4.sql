@@ -1,4 +1,5 @@
--- display the distinct city names that contains vowels in both first and last letter 
+--Weather Observation Station 8 
+--display the distinct city names that contains vowels in both first and last letter 
 
 SELECT DISTINCT city
 FROM station

@@ -1,3 +1,4 @@
+--Weather Observation Station 6 
 -- Select distinct cities whose name starts with vowel
 SELECT DISTINCT city
 FROM station

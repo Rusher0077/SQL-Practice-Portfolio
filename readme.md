@@ -19,40 +19,34 @@ Focus: Building strong fundamentals, real-world business logic, and clean code.
 - LeetCode: https://leetcode.com/[YOUR_LEETCODE_USERNAME]
 
 ## Highlighted Problems
-These are some of my favorite or most challenging problems that demonstrate key SQL concepts:
+These are some of my favorite problems that demonstrate key SQL concepts:
 
-| Platform      | Difficulty | Problem Title / ID                          | Key Concepts                              | Link |
-|---------------|------------|---------------------------------------------|-------------------------------------------|------|
-| StrataScratch | Medium     | Salaries Differences (10308)                 | Conditional aggregation, joins            | [Link](https://platform.stratascratch.com/coding/10308-salaries-differences) |
-| StrataScratch | Medium     | Average Salaries (9917)                     | Window functions                          | [Link](https://platform.stratascratch.com/coding/9917-average-salaries) |
-| HackerRank    | Medium     | The Pads                                    | String concatenation, grouping            | [Link](https://www.hackerrank.com/challenges/the-pads) |
-| LeetCode      | Hard       | Department Top Three Salaries (185)         | RANK/DENSE_RANK, subqueries               | [Link](https://leetcode.com/problems/department-top-three-salaries) |
-| [ADD MORE]    |            |                                             |                                           |      |
-| [ADD MORE]    |            |                                             |                                           |      |
+| Platform      | Difficulty | Problem Title / ID                  | Key Concepts                              | Link |
+|---------------|------------|-------------------------------------|-------------------------------------------|------|
+| StrataScratch | Medium     | Salaries Differences (10308)        | Joins, Conditional Aggregation (CASE inside MAX/ABS) | [Link](https://platform.stratascratch.com/coding/10308-salaries-differences) |
+| HackerRank    | Medium     | The Pads                            | String Concatenation, Grouping, LOWER(), COUNT() | [Link](https://www.hackerrank.com/challenges/the-pads/problem) |
 
-*(Full list of all solved problems available in the repository folders below)*
+*(More problems will be added as I complete challenging ones)*
 
 ## Repository Structure
-
+```
 sql-practice-portfolio/
 ├── hackerrank/
-│   ├── basic-select/
-│   ├── aggregation/
-│   ├── joins/
-│   └── advanced/
+│   ├── easy/
+|   ├── medium/
+|   └── hard/
 ├── stratascratch/
 │   ├── easy/
 │   ├── medium/
 │   └── hard/
 └── leetcode/
-├── easy/
-├── medium/
-└── hard/
-
+    ├── easy/
+    ├── medium/
+    └── hard/
+```
 
 Each file includes:
-- Problem ID and title in filename
-- Brief comment header with problem link and key learning
+- Title, Discription of the problem and problem ID (for StrataScratch only) 
 - Clean, formatted solution (PostgreSQL/MySQL style)
 
 ## Goals
@@ -60,6 +54,6 @@ Each file includes:
 - Build a verifiable track record of consistent practice
 - Prepare for data analyst technical interviews
 
-Thanks for visiting! Feel free to reach out on LinkedIn: [YOUR_LINKEDIN_URL]
+Thanks for visiting! Feel free to reach out on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallabdey007/)
 
-Last updated: [DATE]
+Last updated: 5 Jan, 2026
