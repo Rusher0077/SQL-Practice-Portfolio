@@ -7,7 +7,7 @@ Focus: Building strong fundamentals, real-world business logic, and clean code.
 
 | Platform       | Solved / Total | Difficulty Breakdown                  | Notes                              |
 |----------------|----------------|---------------------------------------|------------------------------------|
-| HackerRank SQL | [e.g., 58 / 58] | Easy: [XX] | Medium: [XX] | Hard: [XX] | All completed                      |
+| HackerRank SQL | [e.g., 33 / 58] | Easy: [29] | Medium: [4] | Hard: [XX] | All completed                      |
 | StrataScratch  | [e.g., 45 / ~100 free] | Easy: [XX] | Medium: [XX] | Hard: [XX] | Real-world datasets                |
 | LeetCode SQL   | [e.g., 25 / ~200]      | Easy: [XX] | Medium: [XX] | Hard: [XX] | Interview-style problems           |
 
