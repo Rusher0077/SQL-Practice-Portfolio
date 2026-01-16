@@ -7,8 +7,8 @@ Focus: Building strong fundamentals, real-world business logic, and clean code.
 
 | Platform       | Solved / Total | Difficulty Breakdown                  | Notes                              |
 |----------------|----------------|---------------------------------------|------------------------------------|
-| HackerRank SQL | [e.g., 33 / 58] | Easy: [29] | Medium: [4] | Hard: [XX] | All completed                      |
-| StrataScratch  | [e.g., 45 / ~100 free] | Easy: [XX] | Medium: [XX] | Hard: [XX] | Real-world datasets                |
+| HackerRank SQL | [e.g., 43 / 58] | Easy: [36] | Medium: [7] | Hard: [XX] | All completed                      |
+| StrataScratch  | [e.g., 1 / ~100 free] | Easy: [XX] | Medium: [XX] | Hard: [XX] | Real-world datasets                |
 | LeetCode SQL   | [e.g., 25 / ~200]      | Easy: [XX] | Medium: [XX] | Hard: [XX] | Interview-style problems           |
 
 **Total problems solved**: [CALCULATE SUM]
@@ -56,4 +56,4 @@ Each file includes:
 
 Thanks for visiting! Feel free to reach out on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallabdey007/)
 
-Last updated: 5 Jan, 2026
+Last updated: 16 Jan, 2026
