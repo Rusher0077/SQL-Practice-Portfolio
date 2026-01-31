@@ -33,16 +33,21 @@ These are some of my favorite problems that demonstrate key SQL concepts:
 sql-practice-portfolio/
 ├── hackerrank/
 │   ├── easy/
-|   ├── medium/
-|   └── hard/
+│   ├── medium/
+│   └── hard/
 ├── stratascratch/
 │   ├── easy/
 │   ├── medium/
 │   └── hard/
-└── leetcode/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+└── datalemur/
     ├── easy/
     ├── medium/
     └── hard/
+
 ```
 
 Each file includes:
