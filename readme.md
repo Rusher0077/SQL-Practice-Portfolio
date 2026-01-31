@@ -3,28 +3,34 @@
 Actively practicing SQL to prepare for Data Analyst roles.  
 Focus: Building strong fundamentals, real-world business logic, and clean code.
 
-## Progress Summary (as of [DATE - FILL THIS])
+## Progress Summary (as of 30 Jan, 2026)
 
-| Platform       | Solved / Total | Difficulty Breakdown                  | Notes                              |
-|----------------|----------------|---------------------------------------|------------------------------------|
-| HackerRank SQL | [e.g., 43 / 58] | Easy: [36] | Medium: [7] | Hard: [XX] | All completed                      |
-| StrataScratch  | [e.g., 1 / ~100 free] | Easy: [XX] | Medium: [XX] | Hard: [XX] | Real-world datasets                |
-| LeetCode SQL   | [e.g., 25 / ~200]      | Easy: [XX] | Medium: [XX] | Hard: [XX] | Interview-style problems           |
+| Platform          | Solved / Total              | Difficulty Breakdown                  |
+|-------------------|-----------------------------|---------------------------------------|
+| HackerRank SQL    | 57 / 58                     | Easy: 41 \| Medium: 16 \| Hard: 1 |
+| StrataScratch     | 2 / ~75 free             
+  | Easy: 1 \| Medium: 1 \| Hard: 0 |
+| LeetCode SQL      | 1 / ~77 free                    | Easy: 1 \| Medium: 0 \| Hard: 0 |
+| DataLemur         | 1 / ~53 free                   | Easy: 1 \| Medium: 0 \| Hard: 0|
 
-**Total problems solved**: [CALCULATE SUM]
+**Total problems solved**: 61
 
 ## Platform Handles (for verification)
-- HackerRank: https://www.hackerrank.com/[YOUR_HACKERRANK_USERNAME]
-- StrataScratch: https://platform.stratascratch.com/user/profile/[YOUR_STRATASCRATCH_USERNAME]
-- LeetCode: https://leetcode.com/[YOUR_LEETCODE_USERNAME]
+- HackerRank: https://www.hackerrank.com/profile/pallabdey21
+- StrataScratch: https://platform.stratascratch.com/user/Rusher0077
+- LeetCode: https://leetcode.com/u/bcV4q59RaA/
+- DataLemur: https://datalemur.com/profile
 
 ## Highlighted Problems
 These are some of my favorite problems that demonstrate key SQL concepts:
 
-| Platform      | Difficulty | Problem Title / ID                  | Key Concepts                              | Link |
-|---------------|------------|-------------------------------------|-------------------------------------------|------|
-| StrataScratch | Medium     | Salaries Differences (10308)        | Joins, Conditional Aggregation (CASE inside MAX/ABS) | [Link](https://platform.stratascratch.com/coding/10308-salaries-differences) |
-| HackerRank    | Medium     | The Pads                            | String Concatenation, Grouping, LOWER(), COUNT() | [Link](https://www.hackerrank.com/challenges/the-pads/problem) |
+| Platform      | Difficulty | Problem Title / ID                  | Key Concepts                                      | Link |
+|---------------|------------|-------------------------------------|---------------------------------------------------|------|
+| StrataScratch | Easy       | Salaries Differences (10308)        | Joins, Conditional Aggregation (CASE inside MAX/ABS) | [Link](https://platform.stratascratch.com/coding/10308-salaries-differences) |
+| HackerRank    | Medium     | The Pads                            | String Concatenation, Grouping, LOWER(), COUNT()  | [Link](https://www.hackerrank.com/challenges/the-pads/problem) |
+| HackerRank    | Hard     | Interviews                          | Advanced Joins, Grouping, Aggregation             | [Link](https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true) |
+| HackerRank    | Medium     | Print Prime Numbers                 | Recursion, UNION ALL, GROUP_CONCAT                | [Link](https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true) |
+| HackerRank    | Medium       | SQL Project Planning                | CTEs, DATEDIFF, Window Function (LAG), CASE       | [Link](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true) |
 
 *(More problems will be added as I complete challenging ones)*
 
