@@ -1,4 +1,4 @@
--- SQL Projects
+-- SQL Project Planning
 -- Identify continuous project timelines by grouping consecutive start and end dates,
 -- then return each project’s start date and end date ordered by project duration and start date.
 WITH order_date AS (
