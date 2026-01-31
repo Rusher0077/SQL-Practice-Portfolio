@@ -8,10 +8,9 @@ Focus: Building strong fundamentals, real-world business logic, and clean code.
 | Platform          | Solved / Total              | Difficulty Breakdown                  |
 |-------------------|-----------------------------|---------------------------------------|
 | HackerRank SQL    | 57 / 58                     | Easy: 41 \| Medium: 16 \| Hard: 1 |
-| StrataScratch     | 2 / ~75 free             
-  | Easy: 1 \| Medium: 1 \| Hard: 0 |
-| LeetCode SQL      | 1 / ~77 free                    | Easy: 1 \| Medium: 0 \| Hard: 0 |
-| DataLemur         | 1 / ~53 free                   | Easy: 1 \| Medium: 0 \| Hard: 0|
+| StrataScratch     | 2 / ~75 free                | Easy: 1 \| Medium: 1 \| Hard: 0 |
+| LeetCode SQL      | 1 / ~77 free                | Easy: 1 \| Medium: 0 \| Hard: 0 |
+| DataLemur         | 1 / ~53 free                | Easy: 1 \| Medium: 0 \| Hard: 0|
 
 **Total problems solved**: 61
 
