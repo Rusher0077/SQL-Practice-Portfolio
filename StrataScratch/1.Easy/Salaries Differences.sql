@@ -1,4 +1,7 @@
-/* ID 10308 */
+-- Salaries Differences (ID 10308) 
+-- Calculates the difference between the highest salaries in the marketing
+-- and engineering departments.Output just the absolute difference in salaries.
+
 WITH max_sal AS (
     SELECT MAX(salary) AS max_sal,
         department
