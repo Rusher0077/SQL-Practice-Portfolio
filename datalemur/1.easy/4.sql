@@ -15,8 +15,4 @@ SELECT sum(
             else 0
         end
     ) as mobile_views
-FROM (
-        SELECT device_type,
-            count(user_id) over(partition by device_type) as dev_count
-        from viewership
-    ) t
+FROM viewership
