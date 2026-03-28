@@ -3,17 +3,17 @@
 Actively practicing SQL to prepare for Data Analyst roles.  
 Focus: Building strong fundamentals, real-world business logic, and clean code.
 
-## Progress Summary (as of 27 Mar, 2026)
+## Progress Summary (as of 28 Mar, 2026)
 
 | Platform          | Solved / Total              | Difficulty Breakdown            |
 |-------------------|-----------------------------|---------------------------------|
 | HackerRank SQL    | 57 / 58                     | Easy: 41 / Medium: 16 / Hard: 1 |
 | StrataScratch     | 3 / ~75 free                | Easy: 1 / Medium: 2 / Hard: 0   |
-| LeetCode SQL      | 12 / ~77 free                | Easy: 7 / Medium: 4 / Hard: 1   |
+| LeetCode SQL      | 13 / ~77 free                | Easy: 8 / Medium: 4 / Hard: 1   |
 | DataLemur         | 8 / ~53 free                | Easy: 6 / Medium: 2 / Hard: 0   |
 
 
-**Total problems solved**: 80
+**Total problems solved**: 81
 
 ## Platform Handles (for verification)
 - HackerRank: https://www.hackerrank.com/profile/pallabdey21
@@ -67,4 +67,4 @@ Each file includes:
 
 Thanks for visiting! Feel free to reach out on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallabdey007/)
 
-Last updated: 27 Mar, 2026
+Last updated: 28 Mar, 2026
