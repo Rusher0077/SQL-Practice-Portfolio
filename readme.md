@@ -3,17 +3,17 @@
 Actively practicing SQL to prepare for Data Analyst roles.  
 Focus: Building strong fundamentals, real-world business logic, and clean code.
 
-## Progress Summary (as of 29 Apr, 2026)
+## Progress Summary (as of 30 Apr, 2026)
 
 | Platform          | Solved / Total              | Difficulty Breakdown            |
 |-------------------|-----------------------------|---------------------------------|
 | HackerRank SQL    | 57 / 58                     | Easy: 41 / Medium: 16 / Hard: 1 |
 | StrataScratch     | 4 / ~75 free                | Easy: 2 / Medium: 2 / Hard: 0   |
 | LeetCode SQL      | 17 / ~77 free                | Easy: 10 / Medium: 5 / Hard: 2   |
-| DataLemur         | 9 / ~53 free                | Easy: 6 / Medium: 3 / Hard: 0   |
+| DataLemur         | 12 / ~53 free                | Easy: 9 / Medium: 3 / Hard: 0   |
 
 
-**Total problems solved**: 87
+**Total problems solved**: 90
 
 ## Platform Handles (for verification)
 - HackerRank: https://www.hackerrank.com/profile/pallabdey21
