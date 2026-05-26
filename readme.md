@@ -9,11 +9,11 @@ Focus: Building strong fundamentals, real-world business logic, and clean code.
 |-------------------|-----------------------------|---------------------------------|
 | HackerRank SQL    | 57 / 58                     | Easy: 41 / Medium: 16 / Hard: 1 |
 | StrataScratch     | 4 / ~75 free                | Easy: 2 / Medium: 2 / Hard: 0   |
-| LeetCode SQL      | 17 / ~77 free                | Easy: 10 / Medium: 5 / Hard: 2   |
+| LeetCode SQL      | 18 / ~77 free                | Easy: 11 / Medium: 5 / Hard: 2   |
 | DataLemur         | 14 / ~53 free                | Easy: 11 / Medium: 3 / Hard: 0   |
 
 
-**Total problems solved**: 92
+**Total problems solved**: 93
 
 ## Platform Handles (for verification)
 - HackerRank: https://www.hackerrank.com/profile/pallabdey21
