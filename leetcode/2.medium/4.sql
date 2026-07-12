@@ -12,6 +12,8 @@ BEGIN
     RETURN (
         SELECT DISTINCT Salary
         FROM Employee
-        ORDER BY Salary DESC OFFSET (@n - 1) ROWS FETCH NEXT 1 ROW ONLY
+        ORDER BY Salary DESC 
+        OFFSET (@n - 1) ROWS 
+        FETCH NEXT 1 ROW ONLY
     )
 END
